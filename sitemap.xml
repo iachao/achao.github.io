@@ -9,29 +9,36 @@
   </url>
   
   <url>
-    <loc>https://iachao.github.io/</loc>
-    <lastmod>2020-01-06T21:41:52+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://iachao.github.io/categories/</loc>
-    <lastmod>2020-01-06T21:24:13+08:00</lastmod>
+    <lastmod>2020-01-08T11:30:19+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://iachao.github.io/post/</loc>
-    <lastmod>2020-01-06T21:24:13+08:00</lastmod>
+    <lastmod>2020-01-08T11:30:19+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://iachao.github.io/categories/%E6%83%85%E6%84%9F/</loc>
-    <lastmod>2020-01-06T21:24:13+08:00</lastmod>
+    <lastmod>2020-01-08T11:30:19+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://iachao.github.io/post/oneperson/</loc>
+    <lastmod>2020-01-08T11:30:19+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://iachao.github.io/</loc>
+    <lastmod>2020-01-08T11:30:19+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

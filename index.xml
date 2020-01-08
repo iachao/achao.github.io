@@ -6,7 +6,7 @@
     <description>Recent content on 阿超的世界</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 06 Jan 2020 21:38:52 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2020 11:30:19 +0800</lastBuildDate>
     
 	<atom:link href="https://iachao.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,18 +22,21 @@ Other：♂ ♑</description>
     </item>
     
     <item>
+      <title>那个人一些事</title>
+      <link>https://iachao.github.io/post/oneperson/</link>
+      <pubDate>Wed, 08 Jan 2020 11:30:19 +0800</pubDate>
+      
+      <guid>https://iachao.github.io/post/oneperson/</guid>
+      <description>生命中总有一些人、一些事给过我们沉重的打击。 在无形无意中影响着我们对未来不确定的研判。 你是否记得那些人、那些事？</description>
+    </item>
+    
+    <item>
       <title>遇见</title>
       <link>https://iachao.github.io/post/meet/</link>
       <pubDate>Mon, 06 Jan 2020 21:24:13 +0800</pubDate>
       
       <guid>https://iachao.github.io/post/meet/</guid>
-      <description>&lt;p&gt;2019.10.27 这一天毫无征兆。&lt;/p&gt;
-&lt;p&gt;后来才知道，人家打麻将去了。&lt;/p&gt;
-&lt;p&gt;按以前，听到麻将两字，应该止言了。&lt;/p&gt;
-&lt;p&gt;可是这次，似乎有点不一样。&lt;/p&gt;
-&lt;p&gt;除了春天、爱情、樱花&amp;hellip;&amp;hellip;&lt;/p&gt;
-&lt;p&gt;是心动啊？&lt;/p&gt;
-&lt;p&gt;糟糕眼神躲不掉。&lt;/p&gt;</description>
+      <description>2019.10.27 这一天毫无征兆。 后来才知道，人家打麻将去了。 按以前，听到麻将两字，应该止言了。 可是这次，似乎有点不一样。 除了春天、爱情、樱花&amp;hellip</description>
     </item>
     
   </channel>
